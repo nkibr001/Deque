@@ -1,4 +1,3 @@
-//6039168
 public class Deque
 {
     final int SIZE;
